@@ -4,9 +4,9 @@
 
 # Solution using a range
 
-# def roll
-  # Random.rand(1..6)
-# end
+def roll
+  Random.rand(1..6)
+end
 
 # Solution using random number from an array
 
